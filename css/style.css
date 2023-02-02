@@ -1,0 +1,23 @@
+* {
+    background-color:  #f5f5dd;
+}
+.square1 {
+    width:200px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.87);
+  }
+  .square2 {
+    width:200px;
+    height: 200px;
+    background-color:rgba(0, 0, 0, 0.689);
+  }
+  .square3 {
+    width:200px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.342);
+  }
+  .square4 {
+    width:200px;
+    height: 200px;
+    background-color: rgba(0, 0, 0, 0.171);
+  }
